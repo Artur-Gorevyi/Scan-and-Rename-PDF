@@ -17,7 +17,7 @@ After clicking on the "UPLOAD" button, a dialog box appears in which we choose t
 
 ![image](https://github.com/Artur-Gorevyi/Scan-and-Rename-PDF/assets/108293399/12d4bb74-af8e-4e7b-ae3b-701aa2df79d8)
 
-Also, we can simply drag the files we have selected to a special area
+Also, we can simply drag and drop files we have selected to a special area
 
 ![image](https://github.com/Artur-Gorevyi/Scan-and-Rename-PDF/assets/108293399/2f6a5d1f-2bf4-4d27-8bb2-6819d8826ec9)
 
