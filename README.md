@@ -21,7 +21,7 @@ Fitz 0.0.1.dev2 - https://pypi.org/project/fitz/ (pip install fitz)
 
 Pillow 10.0.1 - https://pypi.org/project/Pillow/ (pip install Pillow)
 
-Tkinterdnd2 0.3.0 - https://pypi.org/project/tkinterdnd2/(pip install tkinterdnd2)
+Tkinterdnd2 0.3.0 - https://pypi.org/project/tkinterdnd2/ (pip install tkinterdnd2)
 
 Pytesseract 0.3.10 - https://pypi.org/project/pytesseract/ (pip install pytesseract)
 
