@@ -11,7 +11,8 @@ Using the Pillow library, I convert the PDF to a JPG photo and scan this photo u
 At the output, I get all the text from the PDF file and scan it to match my number
 And if there is a match, the program renames the PDF file to the name that is in the dictionary
 
-![image](https://github.com/Artur-Gorevyi/Scan-and-Rename-PDF/assets/108293399/122249c5-4871-434a-9c1c-6a712524e4fa)
+![image](https://github.com/Artur-Gorevyi/Scan-and-Rename-PDF/assets/108293399/122249c5-4871-434a-9c1c-6a712524e4fa) ![image](https://github.com/Artur-Gorevyi/Scan-and-Rename-PDF/assets/108293399/4a62c0c9-4808-4796-b45d-97d6ec4ef5ec)
+
 
 # Renamer GUI
 
