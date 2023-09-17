@@ -5,6 +5,14 @@ Then go into each document and rename it with the name that is in the document.
 # Solution:
 In the file, there is a number attached to the name. If we know the number, we will know the name. The program uses Tesseract OCR to scan the PDF document and find that number. If we find the number, we compare it to the database and rename our PDF with the name attached to the number we found.
 
+# How it works?
+I use Tesseract-OCR and Pillow to extract text from PDF files
+Using the Pillow library, I convert the PDF to a JPG photo and scan this photo using Tesseract-OCR.
+At the output, I get all the text from the PDF file and scan it to match my number
+And if there is a match, the program renames the PDF file to the name that is in the dictionary
+
+![image](https://github.com/Artur-Gorevyi/Scan-and-Rename-PDF/assets/108293399/122249c5-4871-434a-9c1c-6a712524e4fa)
+
 # Renamer GUI
 
 After starting the program, we see a window in which there are 2 buttons.
@@ -28,14 +36,5 @@ After successfully uploading the files into the program, we can see that the "RE
 After pressing the "RENAME" button, we can see how the PDF files start to be renamed, of course if it satisfies the condition in the program
 
 ![image](https://github.com/Artur-Gorevyi/Scan-and-Rename-PDF/assets/108293399/ea626e63-184d-4cc9-93b1-e64b3b0c4aee)
-
-# How it works?
-
-I use Tesseract-OCR and Pillow to extract text from PDF files
-Using the Pillow library, I convert the PDF to a JPG photo and scan this photo using Tesseract-OCR.
-At the output, I get all the text from the PDF file and scan it to match my number
-And if there is a match, the program renames the PDF file to the name that is in the dictionary
-
-![image](https://github.com/Artur-Gorevyi/Scan-and-Rename-PDF/assets/108293399/122249c5-4871-434a-9c1c-6a712524e4fa)
 
 
