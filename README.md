@@ -16,12 +16,18 @@ And if there is a match, the program renames the PDF file to the name that is in
 # Libraries
 
 PIP - https://pip.pypa.io/en/stable/installation/  (py get-pip.py)
+
 Fitz 0.0.1.dev2 - https://pypi.org/project/fitz/ (pip install fitz)
+
 Pillow 10.0.1 - https://pypi.org/project/Pillow/ (pip install Pillow)
+
 Tkinterdnd2 0.3.0 - https://pypi.org/project/tkinterdnd2/(pip install tkinterdnd2)
+
 Pytesseract 0.3.10 - https://pypi.org/project/pytesseract/ (pip install pytesseract)
 
+
 If you don't have tesseract executable in your PATH, include the following:
+
 pytesseract.pytesseract.tesseract_cmd = r'<full_path_to_your_tesseract_executable>'
 
 # Renamer GUI
